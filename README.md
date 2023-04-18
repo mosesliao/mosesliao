@@ -1,6 +1,8 @@
-### Hi there 👋 I''m Moses Liao
+## Hi there 👋 I''m Moses Liao
 
-I am a backend server developer, DevOps and SRE Engineer, and a cloud architect
+![](img/banner.jpg)
+
+I am a backend server developer, DevOps and SRE Engineer, and cloud architect
 
 Services have to be secure and reliable, hence you find my interest in a cloud architect and site reliability engineering. I ensure SLA by doing load testing and deploying monitoring tools on apps to make sure anything that can bring the servers down will be pick up by me or someone similar to me first.
 
@@ -13,18 +15,23 @@ Services have to be secure and reliable, hence you find my interest in a cloud a
 
 - 👯 I’m looking to collaborate on ...
     * Plug and play data sources for chatGPT like AI, where the data can be quickly learned and be put forward as useful information when someone wants to search for something.
-    * Some way to chart out usage of AWS AI/ML related service resources like Sagemaker jobs (Transform/Training/Processing) and EMR jobs real time
+
+- 🤔 I’m looking for help with ...
+    * Understanding ChatGPT or similar AI that can help on the above work.
 
 📫 How to reach me: ...
 
-<a href="https://www.linkedin.com/in/mosesliao/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosesliao/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mosesliao.medium.com)
 ### Language and tools
 
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ### Certification
 [![Terraform](img/hashicorp-certified-terraform-associate-002.png)](https://www.credly.com/badges/45f29b07-b773-45f1-8557-e86101ec4ac0/public_url)
 ![](img/aws-certified-solutions-architect-associate.png)
