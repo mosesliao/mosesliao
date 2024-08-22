@@ -35,6 +35,7 @@ Services have to be secure and reliable, hence you find my interest in a cloud a
 ### Certification
 [![Terraform](img/hashicorp-certified-terraform-associate-002.png)](https://www.credly.com/badges/45f29b07-b773-45f1-8557-e86101ec4ac0/public_url)
 ![](img/aws-certified-solutions-architect-associate.png)
+[![MS Azure](img/microsoft-certified-fundamentals-badge.png)](https://learn.microsoft.com/api/credentials/share/en-us/mosesliao/D8E16EDC9C521E82?sharingId=BB97645A71B7FE04)
 
 <!--
 **mosesliao/mosesliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
