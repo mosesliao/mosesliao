@@ -6,12 +6,8 @@ I am a backend server developer, DevOps and SRE Engineer, and cloud architect
 
 Services have to be secure and reliable, hence you find my interest in a cloud architect and site reliability engineering. I ensure SLA by doing load testing and deploying monitoring tools on apps to make sure anything that can bring the servers down will be pick up by me or someone similar to me first.
 
-- 🔭 I’m currently working on ...
-
-    * a special grafana proxy to cache search results so that it gets displayed quickly. The targetted database is splunk, with the hope it can expand to other different source or form of database soon.
-
-- 🌱 I’m currently learning ...
-    * Microsoft Azure infrastructure, to complement with my AWS solution architect certificate
+- 🎓 I’m currently learning ...
+    * to get the DBA in Emerging Technologies from Golden Gate University
 
 - 👯 I’m looking to collaborate on ...
     * Plug and play data sources for chatGPT like AI, where the data can be quickly learned and be put forward as useful information when someone wants to search for something.
