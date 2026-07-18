@@ -1,51 +1,56 @@
 ## Hi there 👋 I'm Moses Liao
 
-![](img/banner.jpg)
+![Running a Containers vs VM workshop in Singapore](img/banner.jpg)
+*Teaching Containers vs VMs — Singapore*
 
-I am a backend server developer, DevOps and SRE Engineer, and cloud architect
+Backend developer, SRE, and cloud architect in Singapore. I keep production services secure and reliable: load testing, monitoring, and the kind of observability that catches an outage before your users do.
 
-Services have to be secure and reliable, hence you find my interest in a cloud architect and site reliability engineering. I ensure SLA by doing load testing and deploying monitoring tools on apps to make sure anything that can bring the servers down will be pick up by me or someone similar to me first.
+Right now I'm pointing AI at a problem I keep hitting — **old, messy databases nobody wants to touch.** I'm working toward a DBA in Emerging Technologies at Golden Gate University and building the tooling in the open.
 
-- 🎓 I’m currently learning ...
-    * to get the DBA in Emerging Technologies from Golden Gate University
+- 👯 **Looking to collaborate on** — using AI to clean up legacy databases. If that's your problem too, get in touch.
+- 💬 **Ask me about** — SRE, Kubernetes, load testing at scale, air-gapped datacenters, or getting an LLM to talk to your data.
 
-- 👯 I’m looking to collaborate on ...
-    * Using AI to clean up old legacy databases.
-    * ~~Plug and play data sources for chatGPT like AI, where the data can be quickly learned and be put forward as useful information when someone wants to search for something.~~ ([Done!](https://github.com/mosesliao/postgres-mcp))
+### Selected work
 
-- 🤔 I’m looking for help with ...
-    * Understanding ChatGPT or similar AI that can help on the above work.
+| Project | What it is | |
+|---|---|---|
+| [postgres-mcp](https://github.com/mosesliao/postgres-mcp) | Read-only MCP server that lets an AI model query PostgreSQL in plain English | ![](https://img.shields.io/github/stars/mosesliao/postgres-mcp?style=social) |
+| [local-kb-llm](https://github.com/mosesliao/local-kb-llm) | Fully local RAG stack — Ollama + ChromaDB + LangChain. No data leaves your machine | ![](https://img.shields.io/github/stars/mosesliao/local-kb-llm?style=social) |
+| [kubernetes-locust](https://github.com/mosesliao/kubernetes-locust) | Distributed load testing with Locust on AWS EKS | ![](https://img.shields.io/github/stars/mosesliao/kubernetes-locust?style=social) |
+| [fastlane-plugin-lizard](https://github.com/mosesliao/fastlane-plugin-lizard) | Official fastlane plugin for lizard code-complexity analytics | ![](https://img.shields.io/github/stars/mosesliao/fastlane-plugin-lizard?style=social) |
 
-📫 How to reach me: ...
+📫 **How to reach me**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosesliao/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mosesliao.medium.com)
+
+Open to consulting on SRE, cloud architecture, and AI-over-your-data projects.
+
 ### Language and tools
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+**Cloud & infra**
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Ops & data**
+
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Certification
-[![Terraform](img/hashicorp-certified-terraform-associate-002.png)](https://www.credly.com/badges/45f29b07-b773-45f1-8557-e86101ec4ac0/public_url)
-![](img/aws-certified-solutions-architect-associate.png)
-[![MS Azure](img/microsoft-certified-fundamentals-badge.png)](https://learn.microsoft.com/api/credentials/share/en-us/mosesliao/D8E16EDC9C521E82?sharingId=BB97645A71B7FE04)
-[![OCI Observability Professional](img/oci-2025-certified-observability-professional.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=007ED182946A1DC22B38FD263B0E702C57F5D68296EF77FBE88C10763E4F3709)
-
-<!--
-**mosesliao/mosesliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![MS Azure Fundamentals](img/microsoft-certified-fundamentals-badge.png)](https://learn.microsoft.com/api/credentials/share/en-us/mosesliao/D8E16EDC9C521E82?sharingId=BB97645A71B7FE04)
+[![OCI 2025 Certified Foundations Associate](img/oci-2025-certified-foundations-associate.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A6108441D6DEEDA5F251EFF144271627B59975E5A5FC1543145EC1D7450B9C4C)
+[![OCI 2025 Certified Architect Associate](img/oci-2025-certified-architect-associate.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A53E4D5A5BBE219C3ECC13333BA7CED0507A46CBC2DF6D0B2F08D828004540F3)
+[![OCI 2025 Certified Observability Professional](img/oci-2025-certified-observability-professional.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=007ED182946A1DC22B38FD263B0E702C57F5D68296EF77FBE88C10763E4F3709)
